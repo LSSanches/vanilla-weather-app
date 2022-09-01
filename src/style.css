@@ -90,3 +90,12 @@ a {
   font-size: 16px;
   top: 0px;
 }
+
+.weather-temperature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+}
+
+.weather-temperature .active:horver {
+  text-decoration: none;
+}
